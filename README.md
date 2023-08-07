@@ -16,6 +16,13 @@ The URL Shortener project aims to create a web application that allows users to 
 - URL redirection should happen in real-time with minimal latency.
 - Shortened links should not be predictable.
 
+## Watch the Demo
+
+
+
+
+https://github.com/NITESHSAHU107/CodeClause_project_Url_Shortener/assets/111894844/daa81513-dfec-47ab-9253-3b18d8c395ce
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
